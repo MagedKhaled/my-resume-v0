@@ -1,0 +1,1 @@
+import{P as s,C as r,r as o,M as m,Q as u}from"./index-WFfXm3ro.js";const a={name:"Maged Khaled Ahmed",phone:"01032748712",email:"maged.khaled03@gmail.com"},c=s("userResumeData",()=>({getPersonalData:(e=void 0)=>e?_.get(a,e):a})),p=r({__name:"index",setup(t){const e=c(),n=o(e.getPersonalData());return(d,l)=>m(u(n))}});export{p as default};
